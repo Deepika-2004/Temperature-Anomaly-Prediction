@@ -12,10 +12,10 @@ Analyses long-term global temperature anomalies and their relationship with atmo
 
 ## Key Findings
 
-- **Post-1980 structural break confirmed:** mean temperature anomaly rose ~0.70°C relative to the 1900–1980 baseline — statistically significant (ANOVA p < 0.05, Tukey HSD)
-- **No significant difference** between pre-1900 and 1900–1980 periods — the acceleration is distinctly post-1980
+- **Post-1980 structural break confirmed:** mean temperature anomaly rose ~0.70°C relative to the 1900–1980 baseline - statistically significant (ANOVA p < 0.05, Tukey HSD)
+- **No significant difference** between pre-1900 and 1900–1980 periods - the acceleration is distinctly post-1980
 - **Warming rate post-1980** is substantially steeper than any prior period (linear regression by era)
-- **Strong CO₂–temperature correlation** — higher CO₂ concentration bands consistently correspond to higher mean temperature anomalies
+- **Strong CO₂–temperature correlation** - higher CO₂ concentration bands consistently correspond to higher mean temperature anomalies
 - **Three forecast models agree** on continued warming to 2050; CO₂-based projection shows the steepest trajectory
 
 
@@ -56,7 +56,7 @@ Both datasets are publicly available and not included in this repository.
 
 ## Limitations
 
-- Linear and quadratic forecasts assume continuation of historical trends — no policy or feedback mechanisms modelled
+- Linear and quadratic forecasts assume continuation of historical trends - no policy or feedback mechanisms modelled
 - CO₂-based projection assumes a linear CO₂ growth rate, which may understate future accumulation
-- ARIMA captures time series structure only — not physical climate dynamics
+- ARIMA captures time series structure only - not physical climate dynamics
 - Analysis uses global mean anomaly; regional variation is not examined
