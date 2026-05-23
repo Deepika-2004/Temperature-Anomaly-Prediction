@@ -53,6 +53,10 @@ All four models are compared on a single chart. ARIMA(1,2,1) selected over (1,1,
 
 Both datasets are publicly available and not included in this repository.
 
----
 
-## Repository structure
+## Limitations
+
+- Linear and quadratic forecasts assume continuation of historical trends — no policy or feedback mechanisms modelled
+- CO₂-based projection assumes a linear CO₂ growth rate, which may understate future accumulation
+- ARIMA captures time series structure only — not physical climate dynamics
+- Analysis uses global mean anomaly; regional variation is not examined
